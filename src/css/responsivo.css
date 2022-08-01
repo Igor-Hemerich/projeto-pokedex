@@ -1,0 +1,32 @@
+@media (max-width: 620px){
+    .slider{
+        padding: 0 15px;
+        gap: 10px;
+    }
+
+    .btn{
+        width: 20px;
+        height: 20px;
+        padding: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .lista{
+        height: 480px;
+    }
+
+    .card .img{
+        max-height: 230px;
+    }
+
+    .card .informacoes .nome{
+        max-width: 50px;
+        font-size: 18px;
+    }
+
+    .card .informacoes .hp{
+        font-size: 14px;
+    }
+}
